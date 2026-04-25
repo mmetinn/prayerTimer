@@ -1,32 +1,92 @@
-Namaz Saati Hatırlatıcı - Gizlilik Politikası
-Son Güncelleme: 23 Nisan 2026
+Namaz Saati Hatırlatıcı – Gizlilik Politikası
+Son Güncelleme: 25 Nisan 2026
 
-Bu gizlilik politikası, Namaz Saati Hatırlatıcı mobil uygulamasının ("Uygulama") kullanıcılarından hangi bilgilerin toplandığını ve bu bilgilerin nasıl kullanıldığını açıklar.
+Bu gizlilik politikası, Namaz Saati Hatırlatıcı mobil uygulamasının
+("Uygulama") kullanıcılarından hangi bilgilerin toplandığını, bu bilgilerin
+nasıl kullanıldığını, ne kadar süre saklandığını ve nasıl silinebileceğini
+açıklar.
 
-1. Toplanan Bilgiler ve Kullanım Amacı
-Uygulamamız, temel işlevlerini yerine getirebilmek ve kullanıcı deneyimini iyileştirmek için şu verilere erişebilir:
+1. TOPLANAN BİLGİLER VE KULLANIM AMACI
 
-Konum Bilgisi: Namaz vakitlerinin bulunduğunuz konuma göre doğru hesaplanabilmesi için cihazınızdan konum izni talep edilir. Bu veri cihaz üzerinde işlenir.
+1.1. Konum Bilgisi
+Namaz vakitlerinin bulunduğunuz konuma göre doğru hesaplanabilmesi için
+cihazınızın yaklaşık konum (GPS) verisi talep edilir. Bu veri yalnızca
+cihazınızın yerel hafızasında işlenir; sunucularımıza gönderilmez ve
+tarafımızca saklanmaz.
 
-Bildirimler: Hatırlatıcı servislerini sunmak için anlık bildirim sistemi kullanılır.
+1.2. Reklam Kimliği
+Uygulama içerisinde reklam gösterimi amacıyla cihazınızın Android Reklam
+Kimliği (Advertising ID) Google AdMob tarafından kullanılır. Bu kimlik
+tarafımızca toplanmaz veya saklanmaz; doğrudan AdMob altyapısı tarafından
+işlenir.
 
-Reklam Kimliği: Uygulama içerisinde reklam gösterimi amacıyla cihazınıza ait reklam kimliği (Android Advertising ID) kullanılabilir.
+1.3. Anonim Kullanım Verileri
+Uygulamanın kararlılığını ve performansını izlemek amacıyla Firebase
+Analytics aracılığıyla anonim kullanım istatistikleri (uygulama açılış
+sayısı, hata raporları, cihaz modeli, işletim sistemi sürümü) toplanabilir.
+Bu veriler kişisel olarak sizi tanımlamaz.
 
-2. Üçüncü Taraf Hizmetleri ve Reklamlar
-Bu uygulama, kullanıcıya ücretsiz hizmet sunabilmek için reklam destekli bir model kullanmaktadır. Uygulama içerisinde kullanılan üçüncü taraf servis sağlayıcıların gizlilik politikalarına aşağıdaki bağlantılardan ulaşabilirsiniz:
+2. VERİ SAKLAMA SÜRESİ
 
-Google AdMob: https://www.google.com/policies/technologies/ads/
+- Konum bilgisi: Saklanmaz. Yalnızca uygulama açıkken anlık olarak
+  hesaplama için kullanılır.
+- Bildirim ve uygulama tercihleriniz: Cihazınızın yerel hafızasında
+  uygulama yüklü olduğu sürece tutulur. Uygulamayı kaldırdığınızda silinir.
+- Firebase Analytics anonim verileri: Google'ın varsayılan saklama
+  politikası kapsamında en fazla 14 ay süreyle tutulur ve sonrasında
+  otomatik olarak silinir.
+- AdMob reklam verileri: Google AdMob'un kendi gizlilik politikasında
+  belirtilen sürelere tabidir.
 
-Firebase Analytics (Varsa): https://firebase.google.com/support/privacy
+3. VERİLERİNİZİ NASIL SİLEBİLİRSİNİZ
 
-AdMob, size kişiselleştirilmiş reklamlar sunmak veya reklam performansını ölçmek için anonim veriler toplayabilir. Cihaz ayarlarınızdan "Reklam Kişiselleştirmeyi Devre Dışı Bırak" seçeneğiyle bu verilerin kullanımını kısıtlayabilirsiniz.
+3.1. Yerel veriler (konum izni, ayarlar, tercihler):
+Cihaz Ayarları > Uygulamalar > Namaz Saati Hatırlatıcı > Depolama >
+"Verileri Temizle" yolunu izleyerek tüm yerel verileri silebilirsiniz.
+Uygulamayı kaldırmanız da tüm yerel verileri kalıcı olarak siler.
 
-3. Veri Güvenliği
-Kullanıcılarımızın gizliliği bizim için önceliklidir. Paylaştığınız kişisel veriler (örneğin konum), doğrudan reklam ağları dışında hiçbir üçüncü şahısla ticari amaçla paylaşılmaz.
+3.2. Konum izni:
+Cihaz Ayarları > Uygulamalar > Namaz Saati Hatırlatıcı > İzinler >
+Konum yolundan dilediğiniz zaman izni iptal edebilirsiniz.
 
-4. Çocukların Gizliliği
-Bu uygulama, Google Play "Aile Politikası" ve çocukların çevrimiçi gizliliğini koruma yasalarına (COPPA) uyum göstermeyi amaçlar. Çocuklardan bilerek kişisel bilgi toplamaz.
+3.3. Reklam Kimliği:
+Cihaz Ayarları > Google > Reklamlar bölümünden reklam kimliğinizi
+sıfırlayabilir veya silebilirsiniz.
 
-5. İletişim
-Bu gizlilik politikası ile ilgili sorularınız için bizimle iletişime geçebilirsiniz:
-E-posta: muhammetmmetin@gmail.com
+3.4. Firebase Analytics ve diğer hesap düzeyindeki veriler:
+Bu verilerin silinmesi için aşağıdaki e-posta adresine talep
+gönderebilirsiniz. Talebiniz 30 gün içinde işleme alınır:
+muhammetemenec@gmail.com
+
+4. ÜÇÜNCÜ TARAF HİZMETLER
+
+Uygulamamız aşağıdaki üçüncü taraf hizmet sağlayıcılarını kullanır.
+Bu sağlayıcılar kendi gizlilik politikalarına tabidir:
+
+- Google AdMob: https://policies.google.com/technologies/ads
+- Firebase / Google Analytics: https://firebase.google.com/support/privacy
+
+5. VERİ GÜVENLİĞİ
+
+Topladığımız verilerin korunması için endüstri standardında güvenlik
+önlemleri uygulanmaktadır. Kişisel verileriniz hiçbir koşulda üçüncü
+taraflara satılmaz veya pazarlama amacıyla paylaşılmaz.
+
+6. ÇOCUKLARIN GİZLİLİĞİ
+
+Uygulama 13 yaşın altındaki çocuklara yönelik değildir ve bu yaş
+grubundan bilerek kişisel veri toplanmaz. 13 yaşın altındaki bir
+çocuğun kişisel bilgilerini paylaştığını fark edersek, bu bilgiler
+en kısa sürede sistemlerimizden silinir.
+
+7. POLİTİKA DEĞİŞİKLİKLERİ
+
+Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişiklikler
+uygulama içinde veya bu sayfada duyurulur. Politikanın en son güncellenme
+tarihi sayfanın başında belirtilmiştir.
+
+8. İLETİŞİM
+
+Gizlilik politikası ile ilgili sorularınız, veri silme talepleriniz veya
+geri bildirimleriniz için:
+E-posta: muhammetemenec@gmail.com
